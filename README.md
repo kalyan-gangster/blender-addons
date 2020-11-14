@@ -1,6 +1,6 @@
 # blender-addons
 
-## In this respository there are Some blender addons\
+## In this respository there are Some blender addons
 
 versions supported for 2.8 and 2.9\
 1.easy Hdri\
