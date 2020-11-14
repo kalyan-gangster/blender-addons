@@ -1,0 +1,1 @@
+blender kit is a default addon in blender to enable it edit/preferences/search for kit add enable it
