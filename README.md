@@ -8,4 +8,5 @@ versions supported for 2.8 and 2.9\
 3.real snow\
 4.blend kit\
 5.Ultra Sky\
-6.animation nodes
+6.animation nodes\
+7.Face builders
