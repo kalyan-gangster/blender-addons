@@ -4,7 +4,7 @@
 
 versions supported for 2.8 and 2.9\
 1.easy Hdri\
-2.auto rig pro\ 
+2.auto rig pro<br>
 3.real snow\
 4.blend kit\
 5.Ultra Sky\
