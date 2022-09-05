@@ -4,7 +4,7 @@
 
 versions supported for 2.8 and 2.9\
 1.easy Hdri\
-2.auto rig pro<br>
+2.auto rig pro<br>https://www35.zippyshare.com/d/KpfM5K6H/205382/AutoRigPro3.65.12_DownloadPirate.com.zip
 3.real snow\
 4.blend kit\
 5.Ultra Sky\
