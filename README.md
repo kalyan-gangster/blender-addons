@@ -1,6 +1,6 @@
-# blender-addons
+# got some blender addons for free 1 == 0 (This includes some paid addons)
 
-## In this respository there are Some blender addons
+## with my experience i have gathered some of the useful addons feel free to download anything
 
 versions supported for 2.8 and 2.9\
 1.easy Hdri\
